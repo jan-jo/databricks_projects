@@ -70,16 +70,6 @@ Raw Data (S3 Bucket)
 
 ---
 
-## Course & Resources
-
-This project is based on a free Databricks micro-course by **Codebasics**.
-
-- **Code & Dataset:** [codebasics.io/resources](https://codebasics.io/resources/databricks)
-- **Certification:** [codebasics.io/courses/databricks](https://codebasics.io/courses/databricks)
-- **Databricks Free Edition:** [Sign up here](https://bit.ly/4nK0NTN)
-
----
-
 ## My Takeaways
 
 Before this project, I had never used Databricks. Here's what changed:
