@@ -18,7 +18,7 @@ I followed this tutorial to learn:
 
 ## What I Learned
 
-| Concept | What It Means (In Simple Terms) |
+| Concept | What It Means  |
 |---|---|
 | **Declarative Pipelines** | You tell Databricks *what* you want, not *how* to do it — it figures out the steps |
 | **Bronze Layer** | Raw data as-is, straight from the source — no changes |
