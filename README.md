@@ -43,7 +43,7 @@ Raw Data (S3 Bucket)
         v
   Gold Layer        <- BI-ready, aggregated data for reporting
 ```
-![Architecture Diagram](assets/architecture _iagram.png)
+![Architecture Diagram](architecture _iagram.png)
 
 ---
 
@@ -57,25 +57,6 @@ Raw Data (S3 Bucket)
 
 ---
 
-## What's Inside
-
-```
-project/
- ├── bronze/
- │   ├── city_bronze.sql          # Raw city data ingestion
- │   └── trips_bronze.sql         # Raw trips data ingestion
- ├── silver/
- │   ├── city_silver.sql          # Cleaned city table
- │   ├── calendar_silver.sql      # Calendar/date dimension table
- │   └── trips_silver.sql         # Cleaned trips table
- ├── gold/
- │   └── trips_gold.sql           # Final BI-ready aggregated data
- └── README.md
-```
-
-*(Adjust the file names above to match your actual repo structure)*
-
----
 
 ## How I Built It — Step by Step
 
