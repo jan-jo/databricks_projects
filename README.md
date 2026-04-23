@@ -43,7 +43,7 @@ Raw Data (S3 Bucket)
         v
   Gold Layer        <- BI-ready, aggregated data for reporting
 ```
-![Architecture Diagram](architecture _iagram.png)
+
 
 ---
 
