@@ -85,7 +85,7 @@ Before this project, I had never used Databricks. Here's what changed:
 
 After completing this project, I earned the **Databricks Lakeflow Spark Declarative Pipelines** certification.
 
-> Credential ID: `179086983` — issued by Databricks via Codebasics
+> Credential ID: `179086983` — issued by Databricks 
 
 ---
 
